@@ -1,4 +1,4 @@
 # Project1
 This is my first Git Project.
 <br>
-Author - Yash Soni
+Author - Yash Soni(Git Hub)
